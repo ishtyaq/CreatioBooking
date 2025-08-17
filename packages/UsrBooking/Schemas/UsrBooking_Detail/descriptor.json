@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "25aefe8e-8344-456e-85c4-2047a672e6cf",
     "Name": "UsrBooking_Detail",
-    "ModifiedOnUtc": "\/Date(1755416897000)\/",
+    "ModifiedOnUtc": "\/Date(1755418409000)\/",
     "Parent": {
       "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
       "Name": "BaseGridDetailV2"
