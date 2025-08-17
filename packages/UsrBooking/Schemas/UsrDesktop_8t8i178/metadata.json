@@ -1,0 +1,37 @@
+= MetaData.Schema.UId "4e589387-4a70-49ad-a512-9059c3084d36"
+= MetaData.Schema.A2 "UsrDesktop_8t8i178"
+= MetaData.Schema.A5 "1cbb147b-8dfa-4527-99d1-dcbe353e2462"
++ MetaData.Schema.B2 {
+  "UId": "b7130e34-7af2-8ae8-f25f-227ad874f28e",
+  "A2": "ChartWidget_0ms0kx8_series_0",
+  "A3": "4e589387-4a70-49ad-a512-9059c3084d36",
+  "A4": "4e589387-4a70-49ad-a512-9059c3084d36",
+  "A5": "1cbb147b-8dfa-4527-99d1-dcbe353e2462"
+}
++ MetaData.Schema.B2 {
+  "UId": "88733bc5-c128-5c88-6860-68153016f5ad",
+  "A2": "ChartWidget_0ms0kx8_title",
+  "A3": "4e589387-4a70-49ad-a512-9059c3084d36",
+  "A4": "4e589387-4a70-49ad-a512-9059c3084d36",
+  "A5": "1cbb147b-8dfa-4527-99d1-dcbe353e2462"
+}
++ MetaData.Schema.B2 {
+  "UId": "fb7f0dfb-9128-dee9-c159-481f43e9a1a5",
+  "A2": "Label_8mv4tjq_caption",
+  "A3": "4e589387-4a70-49ad-a512-9059c3084d36",
+  "A4": "4e589387-4a70-49ad-a512-9059c3084d36",
+  "A5": "1cbb147b-8dfa-4527-99d1-dcbe353e2462"
+}
+~ MetaData.Schema.B2 ["b7130e34-7af2-8ae8-f25f-227ad874f28e","88733bc5-c128-5c88-6860-68153016f5ad","fb7f0dfb-9128-dee9-c159-481f43e9a1a5"]
+= MetaData.Schema.B6 "8c1f0889-ac2a-4b7f-aac2-04bd526708f5"
+= MetaData.Schema.B8 "8.3.0.3031"
+= MetaData.Schema.HD1 "fbc98c89-0691-479c-bc25-59c11ac2365f"
++ MetaData.Schema.HD2 "null"
+= MetaData.Schema.HD14 "Desktop"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:0,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
++ MetaData.Schema.HD9 "null"
++ MetaData.Schema.HD10 "null"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false
