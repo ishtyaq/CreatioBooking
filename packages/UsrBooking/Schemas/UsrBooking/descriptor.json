@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "18e945d4-bd6e-4eae-9e41-db3d6ad2d9b9",
+    "Name": "UsrBooking",
+    "ModifiedOnUtc": "\/Date(1755417362000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Booking",
+    "DependsOn": []
+  }
+}

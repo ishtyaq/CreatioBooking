@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "47297a1b-b91a-4d27-b660-8e240c8af62a"
+= MetaData.Schema.A2 "UsrBooking_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+~ MetaData.Schema.B2 ["6d617472-2c4a-4620-99ae-07d9b5feb049","3611283a-4c58-4ef3-bdd2-6753e6ab784c","4df68a98-3c01-4530-b910-e69b50d6778c","7210e471-efb6-4fde-a683-1384fd7e5fcc"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
