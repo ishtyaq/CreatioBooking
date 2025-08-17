@@ -1,5 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{aaa68c42-f174-4492-a375-5c322231def8}") = "UsrBooking", "..\packages\UsrBooking\Files\UsrBooking.csproj", "{cc46d2f3-2061-43b6-a85e-82117e59a15a}"
+Project("{cb2e633d-a14e-4c5e-8383-e5c7863566ff}") = "UsrBooking", "..\packages\UsrBooking\Files\UsrBooking.csproj", "{748cb64f-d794-418a-bd5c-80750ad4229c}"
+EndProject
+Project("{e14af08e-66a9-4ba1-848e-468ba22320cf}") = "UsrBookingBPM", "..\packages\UsrBookingBPM\Files\UsrBookingBPM.csproj", "{911226f8-ee8e-4308-a758-b085de41e5a0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -7,9 +9,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-			{cc46d2f3-2061-43b6-a85e-82117e59a15a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-			{cc46d2f3-2061-43b6-a85e-82117e59a15a}.Debug|Any CPU.Build.0 = Debug|Any CPU
-			{cc46d2f3-2061-43b6-a85e-82117e59a15a}.Release|Any CPU.ActiveCfg = Release|Any CPU
-			{cc46d2f3-2061-43b6-a85e-82117e59a15a}.Release|Any CPU.Build.0 = Release|Any CPU
+			{748cb64f-d794-418a-bd5c-80750ad4229c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{748cb64f-d794-418a-bd5c-80750ad4229c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{748cb64f-d794-418a-bd5c-80750ad4229c}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{748cb64f-d794-418a-bd5c-80750ad4229c}.Release|Any CPU.Build.0 = Release|Any CPU
+			{911226f8-ee8e-4308-a758-b085de41e5a0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{911226f8-ee8e-4308-a758-b085de41e5a0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{911226f8-ee8e-4308-a758-b085de41e5a0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{911226f8-ee8e-4308-a758-b085de41e5a0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

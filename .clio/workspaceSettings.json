@@ -1,6 +1,7 @@
 {
   "Packages": [
-    "UsrBooking"
+    "UsrBooking",
+    "UsrBookingBPM"
   ],
   "ApplicationVersion": "8.1.3"
 }

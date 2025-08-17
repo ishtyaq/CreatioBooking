@@ -17,6 +17,10 @@
     {
       "UId": "8c1f0889-ac2a-4b7f-aac2-04bd526708f5",
       "Name": "UsrBooking"
+    },
+    {
+      "UId": "02d0dceb-5730-69ea-9554-8a70840749f9",
+      "Name": "UsrBookingBPM"
     }
   ]
 }
