@@ -1,0 +1,51 @@
+= MetaData.Schema.UId "daadf230-f575-47f6-8491-291dd26f9544"
+= MetaData.Schema.A2 "UsrDesktop_DailySummary"
+= MetaData.Schema.A5 "1cbb147b-8dfa-4527-99d1-dcbe353e2462"
++ MetaData.Schema.B2 {
+  "UId": "dc34ed51-b232-01f4-4b66-1e0b25d4492d",
+  "A2": "ChartWidget_ydp5xc5_yAxis",
+  "A3": "daadf230-f575-47f6-8491-291dd26f9544",
+  "A4": "daadf230-f575-47f6-8491-291dd26f9544",
+  "A5": "1cbb147b-8dfa-4527-99d1-dcbe353e2462"
+}
++ MetaData.Schema.B2 {
+  "UId": "2c7b136f-a21f-e5bc-e3de-e9594802c0d5",
+  "A2": "ChartWidget_ydp5xc5_xAxis",
+  "A3": "daadf230-f575-47f6-8491-291dd26f9544",
+  "A4": "daadf230-f575-47f6-8491-291dd26f9544",
+  "A5": "1cbb147b-8dfa-4527-99d1-dcbe353e2462"
+}
++ MetaData.Schema.B2 {
+  "UId": "fc666f2c-11ae-1eec-b1c9-8fa3153d9e99",
+  "A2": "ChartWidget_ydp5xc5_series_0",
+  "A3": "daadf230-f575-47f6-8491-291dd26f9544",
+  "A4": "daadf230-f575-47f6-8491-291dd26f9544",
+  "A5": "1cbb147b-8dfa-4527-99d1-dcbe353e2462"
+}
++ MetaData.Schema.B2 {
+  "UId": "f7027a94-0cd0-9745-eb42-453e32b500bf",
+  "A2": "Label_i1zs939_caption",
+  "A3": "daadf230-f575-47f6-8491-291dd26f9544",
+  "A4": "daadf230-f575-47f6-8491-291dd26f9544",
+  "A5": "1cbb147b-8dfa-4527-99d1-dcbe353e2462"
+}
++ MetaData.Schema.B2 {
+  "UId": "8d1cef09-d994-a3ed-4509-fb96589b3f86",
+  "A2": "ChartWidget_ydp5xc5_title",
+  "A3": "daadf230-f575-47f6-8491-291dd26f9544",
+  "A4": "daadf230-f575-47f6-8491-291dd26f9544",
+  "A5": "1cbb147b-8dfa-4527-99d1-dcbe353e2462"
+}
+~ MetaData.Schema.B2 ["dc34ed51-b232-01f4-4b66-1e0b25d4492d","2c7b136f-a21f-e5bc-e3de-e9594802c0d5","fc666f2c-11ae-1eec-b1c9-8fa3153d9e99","f7027a94-0cd0-9745-eb42-453e32b500bf","8d1cef09-d994-a3ed-4509-fb96589b3f86"]
+= MetaData.Schema.B6 "3be6a824-53aa-4092-922b-8f48701b013f"
+= MetaData.Schema.B8 "8.3.0.3031"
+= MetaData.Schema.HD1 "fbc98c89-0691-479c-bc25-59c11ac2365f"
++ MetaData.Schema.HD2 "null"
+= MetaData.Schema.HD14 "Desktop"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:1,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
++ MetaData.Schema.HD9 "null"
++ MetaData.Schema.HD10 "null"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

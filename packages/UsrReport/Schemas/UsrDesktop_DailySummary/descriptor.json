@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "daadf230-f575-47f6-8491-291dd26f9544",
+    "Name": "UsrDesktop_DailySummary",
+    "ModifiedOnUtc": "\/Date(1755434033000)\/",
+    "Parent": {
+      "UId": "fbc98c89-0691-479c-bc25-59c11ac2365f",
+      "Name": "CentralAreaDesktopTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Daily Summary",
+    "DependsOn": []
+  }
+}

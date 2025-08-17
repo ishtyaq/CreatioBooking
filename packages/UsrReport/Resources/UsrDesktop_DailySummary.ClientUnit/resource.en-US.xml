@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Daily Summary" />
+			<Item Name="LocalizableStrings.ChartWidget_ydp5xc5_series_0.Value" Value="Booking" />
+			<Item Name="LocalizableStrings.ChartWidget_ydp5xc5_title.Value" Value="New chart" />
+			<Item Name="LocalizableStrings.ChartWidget_ydp5xc5_xAxis.Value" Value="Date" />
+			<Item Name="LocalizableStrings.ChartWidget_ydp5xc5_yAxis.Value" Value="Gross Profit" />
+			<Item Name="LocalizableStrings.Label_i1zs939_caption.Value" Value="Hello, [#Current user.Recipient Name#]!" />
+		</Items>
+	</Group>
+</Resources>
