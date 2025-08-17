@@ -6,6 +6,7 @@
 			<Item Name="Columns.UsrBookingFare.Caption" Value="Booking Fare" />
 			<Item Name="Columns.UsrCarNumber.Caption" Value="Car Number" />
 			<Item Name="Columns.UsrDistance.Caption" Value="Distance" />
+			<Item Name="Columns.UsrExpenses.Caption" Value="Expenses" />
 			<Item Name="Columns.UsrFromAddress.Caption" Value="From Address" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
 			<Item Name="Columns.UsrToAddress.Caption" Value="To Address" />
