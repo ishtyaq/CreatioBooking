@@ -63,7 +63,8 @@ define("UsrDesktop_8t8i178", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						},
 						"series": [
 							{
-								"type": "doughnut",
+								"color": "burnt-coral",
+								"type": "line",
 								"label": "#ResourceString(ChartWidget_0ms0kx8_series_0)#",
 								"legend": {
 									"enabled": false
@@ -95,7 +96,7 @@ define("UsrDesktop_8t8i178", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 													"e8ac3e0a-7e68-4671-b800-f821fdc8c08e": {
 														"filterType": 1,
 														"comparisonType": 3,
-														"isEnabled": true,
+														"isEnabled": false,
 														"trimDateTimeParameterToDate": true,
 														"leftExpression": {
 															"expressionType": 0,
@@ -121,7 +122,7 @@ define("UsrDesktop_8t8i178", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 														}
 													}
 												},
-												"logicalOperation": 0,
+												"logicalOperation": 1,
 												"isEnabled": true,
 												"filterType": 6,
 												"rootSchemaName": "UsrBooking"
@@ -161,7 +162,7 @@ define("UsrDesktop_8t8i178", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 															"columnPath": "UsrTripDate"
 														},
 														"functionType": 3,
-														"datePartType": 1
+														"datePartType": 6
 													}
 												}
 											]
@@ -174,9 +175,7 @@ define("UsrDesktop_8t8i178", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 										"thousandSeparator": ","
 									}
 								},
-								"dataLabel": {
-									"display": false
-								}
+								"dataLabel": {}
 							}
 						],
 						"seriesOrder": {

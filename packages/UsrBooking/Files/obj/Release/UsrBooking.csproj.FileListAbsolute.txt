@@ -1,0 +1,10 @@
+D:\Softwares\creatio\Build\D3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBooking\Files\Bin\UsrBooking.dll
+D:\Softwares\creatio\Build\D3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBooking\Files\Bin\UsrBooking.pdb
+D:\Softwares\creatio\Build\D3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBooking\Files\obj\Release\UsrBooking.csproj.AssemblyReference.cache
+D:\Softwares\creatio\Build\D3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBooking\Files\obj\Release\UsrBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softwares\creatio\Build\D3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBooking\Files\obj\Release\UsrBooking.AssemblyInfoInputs.cache
+D:\Softwares\creatio\Build\D3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBooking\Files\obj\Release\UsrBooking.AssemblyInfo.cs
+D:\Softwares\creatio\Build\D3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBooking\Files\obj\Release\UsrBooking.csproj.CoreCompileInputs.cache
+D:\Softwares\creatio\Build\D3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBooking\Files\obj\Release\UsrBooking.sourcelink.json
+D:\Softwares\creatio\Build\D3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBooking\Files\obj\Release\UsrBooking.dll
+D:\Softwares\creatio\Build\D3DEV\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrBooking\Files\obj\Release\UsrBooking.pdb
