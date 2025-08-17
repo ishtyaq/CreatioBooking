@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "abf043f8-06c2-4df5-9f7f-64e4330c0aaf",
+    "Name": "UsrProcess_9670d94",
+    "ModifiedOnUtc": "\/Date(1755426937000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate the trip fare",
+    "DependsOn": []
+  }
+}

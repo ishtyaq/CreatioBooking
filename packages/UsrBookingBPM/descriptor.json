@@ -1,0 +1,12 @@
+﻿{
+  "Descriptor": {
+    "UId": "02d0dceb-5730-69ea-9554-8a70840749f9",
+    "Name": "UsrBookingBPM",
+    "Type": 1,
+    "InstallBehavior": 1,
+    "ModifiedOnUtc": "\/Date(1755427999000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrBookingBPM.csproj",
+    "DependsOn": []
+  }
+}
