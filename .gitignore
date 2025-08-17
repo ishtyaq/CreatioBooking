@@ -1,0 +1,9 @@
+# Ignore solution directory
+solution/
+
+# Optional: ignore other unwanted dirs
+.vscode/
+bin/
+obj/
+dist/
+packages/
